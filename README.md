@@ -1,4 +1,4 @@
-# Avis Agent — Take-Home
+# Avis Agent
 
 A starting point for the Avis rental-servicing agent take-home. **Start with [`BRIEF.md`](BRIEF.md)** — it describes the task. This repo is a thin scaffold to save you setup time; it is **not** a solution.
 
